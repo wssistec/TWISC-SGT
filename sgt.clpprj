@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="Q:\sgt\src\sgt.clpprj">
+	<settings><PM_URL><![CDATA[]]></PM_URL><PM_HOME_URL><![CDATA[]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="Q:\sgt\src\app\main\home\home.module.js"/>
+		<file name="Q:\sgt\src\app\main\home\home.html"/>
+		<file name="Q:\sgt\src\app\main\home\home.controller.js"/>
+		<file name="Q:\sgt\src\app\main\home\i19n\en.json"/>
+		<file name="Q:\sgt\src\app\data\home\home.json"/>
+		<file name="Q:\sgt\src\app\navigation\navigation.controller.js"/>
+		<file name="Q:\sgt\src\app\navigation\navigation.module.js"/>
+		<file name="Q:\sgt\src\app\index.route.js"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="Q:\sgt\src\app\navigation\layouts\vertical-navigation\navigation.html">
+			<error val="21;1;34;1;2002;1;"/>
+			<error val="34;1;62;1;2002;1;"/>
+			<error val="12;6;36;6;2002;1;"/>
+			<error val="67;6;72;6;2002;1;"/>
+			<error val="36;6;67;6;2002;1;"/>
+			<error val="5;6;12;6;2001;1;"/>
+			<error val="72;6;0;7;2002;1;"/>
+			<error val="11;0;55;0;2002;1;"/>
+			<error val="55;0;68;0;2002;1;"/>
+			<error val="68;0;104;0;2002;1;"/>
+			<error val="1;0;11;0;2001;1;"/>
+			<error val="14;10;33;10;2002;1;"/>
+			<error val="33;10;52;10;2002;1;"/>
+			<error val="1;10;14;10;2001;1;"/>
+			<error val="52;10;83;10;2002;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="Q:\sgt\src\app\toolbar\layouts\vertical-navigation-fullwidth-toolbar-2\toolbar.scss" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\toolbar\layouts\vertical-navigation-fullwidth-toolbar-2\toolbar.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\toolbar\layouts\vertical-navigation-fullwidth-toolbar\toolbar.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\toolbar\layouts\vertical-navigation\toolbar.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\toolbar\layouts\horizontal-navigation\toolbar.scss" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\toolbar\layouts\horizontal-navigation\toolbar.html" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\toolbar\layouts\content-with-toolbar\toolbar.scss" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\toolbar\layouts\content-with-toolbar\toolbar.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\toolbar\toolbar.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\toolbar\toolbar.module.js" crc="1441196044"/>
+		<file name="Q:\sgt\src\app\toolbar\toolbar.controller.js" crc="1466873446"/>
+		<file name="Q:\sgt\src\app\quick-panel\tabs\today\today-tab.scss" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\quick-panel\tabs\today\today-tab.html" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\quick-panel\tabs\chat\chat-tab.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\quick-panel\tabs\chat\chat-tab.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\quick-panel\tabs\chat\chat-tab.controller.js" crc="1456174612"/>
+		<file name="Q:\sgt\src\app\quick-panel\tabs\activity\activity-tab.scss" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\quick-panel\tabs\activity\activity-tab.html" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\quick-panel\quick-panel.scss" crc="1466973492"/>
+		<file name="Q:\sgt\src\app\quick-panel\quick-panel.module.js" crc="1456174612"/>
+		<file name="Q:\sgt\src\app\quick-panel\quick-panel.html" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\quick-panel\quick-panel.controller.js" crc="1456174612"/>
+		<file name="Q:\sgt\src\app\navigation\layouts\vertical-navigation-fullwidth-toolbar-2\navigation.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\navigation\layouts\vertical-navigation-fullwidth-toolbar-2\navigation.html" crc="1466956812"/>
+		<file name="Q:\sgt\src\app\navigation\layouts\vertical-navigation\navigation.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\navigation\layouts\vertical-navigation\navigation.html" crc="1463427212"/>
+		<file name="Q:\sgt\src\app\navigation\layouts\horizontal-navigation\navigation.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\navigation\layouts\horizontal-navigation\navigation.html" crc="1452103316"/>
+		<file name="Q:\sgt\src\app\navigation\navigation.module.js" crc="1453210776"/>
+		<file name="Q:\sgt\src\app\navigation\navigation.controller.js" crc="1458744558"/>
+		<file name="Q:\sgt\src\app\main\sample\sample.module.js" crc="1473769258"/>
+		<file name="Q:\sgt\src\app\main\sample\sample.html" crc="1473769258"/>
+		<file name="Q:\sgt\src\app\main\sample\sample.controller.js" crc="1473769258"/>
+		<file name="Q:\sgt\src\app\main\home\home.module.js" crc="1493344111"/>
+		<file name="Q:\sgt\src\app\main\home\home.html" crc="1493344137"/>
+		<file name="Q:\sgt\src\app\main\home\home.controller.js" crc="1493344185"/>
+		<file name="Q:\sgt\src\app\main\main.controller.js" crc="1451393322"/>
+		<file name="Q:\sgt\src\app\data\readme.txt" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\theming\fuse-theming.service.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\theming\fuse-theming.config.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\theming\fuse-themes.constant.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\theming\fuse-palettes.constant.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\theming\fuse-generator.service.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\theme-options\theme-options.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\theme-options\theme-options.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\theme-options\theme-options.directive.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\services\ms-utils.service.js" crc="1458744558"/>
+		<file name="Q:\sgt\src\app\core\services\ms-api.provider.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\services\api-resolver.service.js" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\text-angular.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\perfect-scrollbar.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\nvd3.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\highlight.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\datatable.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\chartjs.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\chartist.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\c3.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\angular-moment-picker.scss" crc="1456174612"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\plugins\angular-google-map.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\variables.scss" crc="1453208230"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\typography.scss" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\reset.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\print.scss" crc="1453210776"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\mixins.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\material.scss" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\layouts-template.scss" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\layouts-page.scss" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\icons.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\helpers.scss" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\colors.scss" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\animations.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\scss\partials\angular-material-extend.scss" crc="1473768364"/>
+		<file name="Q:\sgt\src\app\core\scss\global.scss" crc="1453210776"/>
+		<file name="Q:\sgt\src\app\core\layouts\vertical-navigation.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\layouts\vertical-navigation-fullwidth-toolbar.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\layouts\vertical-navigation-fullwidth-toolbar-2.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\layouts\horizontal-navigation.html" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\core\layouts\content-with-toolbar.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\layouts\content-only.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\filters\tag.filter.js" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\filters\filterByPropIds.filter.js" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\filters\filterByIds.filter.js" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\filters\basic.filter.js" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\filters\altDate.filter.js" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-widget\ms-widget.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-widget\ms-widget.directive.js" crc="1450702656"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-timeline\ms-timeline.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-timeline\ms-timeline.js" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-stepper\templates\vertical\step\vertical-step.html" crc="1473768364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-stepper\templates\vertical\vertical.scss" crc="1467227684"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-stepper\templates\vertical\vertical.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-stepper\templates\horizontal\horizontal.scss" crc="1456174612"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-stepper\templates\horizontal\horizontal.html" crc="1473768364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-stepper\ms-stepper.scss" crc="1456174612"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-stepper\ms-stepper.directive.js" crc="1473768364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-splash-screen\ms-splash-screen.scss" crc="1456174612"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-splash-screen\ms-splash-screen.directive.js" crc="1454085608"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-sidenav-helper\ms-sidenav-helper.directive.js" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-shortcuts\ms-shortcuts.scss" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-shortcuts\ms-shortcuts.html" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-shortcuts\ms-shortcuts.directive.js" crc="1473769258"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-search-bar\ms-search-bar.scss" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-search-bar\ms-search-bar.html" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-search-bar\ms-search-bar.directive.js" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-scroll\ms-scroll.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-scroll\ms-scroll.directive.js" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-responsive-table\ms-responsive-table.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-responsive-table\ms-responsive-table.directive.js" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-random-class\ms-random-class.directive.js" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-navigation\templates\vertical.html" crc="1470232632"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-navigation\templates\horizontal.html" crc="1470232990"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-navigation\ms-navigation.scss" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-navigation\ms-navigation.directive.js" crc="1470232990"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-nav\ms-nav.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-nav\ms-nav.directive.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-material-color-picker\ms-material-color-picker.scss" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-material-color-picker\ms-material-color-picker.html" crc="1464111086"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-material-color-picker\ms-material-color-picker.directive.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-masonry\ms-masonry.scss" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-masonry\ms-masonry.directive.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-info-bar\ms-info-bar.scss" crc="1473768374"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-info-bar\ms-info-bar.html" crc="1464105498"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-info-bar\ms-info-bar.directive.js" crc="1464111116"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-form-wizard\ms-form-wizard.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-form-wizard\ms-form-wizard.directive.js" crc="1467212992"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-datepicker-fix\ms-datepicker-fix.directive.js" crc="1473768364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-9\template-9.scss" crc="1441994364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-9\template-9.html" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-8\template-8.scss" crc="1441994364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-8\template-8.html" crc="1455818294"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-7\template-7.scss" crc="1441994364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-7\template-7.html" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-6\template-6.scss" crc="1441994364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-6\template-6.html" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-5\template-5.scss" crc="1442402314"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-5\template-5.html" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-4\template-4.scss" crc="1441994364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-4\template-4.html" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-3\template-3.scss" crc="1441994364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-3\template-3.html" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-2\template-2.scss" crc="1441994364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-2\template-2.html" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-10\template-10.scss" crc="1441994364"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-10\template-10.html" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-1\template-1.scss" crc="1441994264"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\templates\template-1\template-1.html" crc="1453546234"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\ms-card.scss" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\directives\ms-card\ms-card.directive.js" crc="1456174612"/>
+		<file name="Q:\sgt\src\app\core\directives\highlight.directive.js" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\core\config\fuse-config.provider.js" crc="1445109534"/>
+		<file name="Q:\sgt\src\app\core\core.run.js" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\core\core.module.js" crc="1472399318"/>
+		<file name="Q:\sgt\src\app\core\core.config.js" crc="1473256848"/>
+		<file name="Q:\sgt\src\app\index.scss" crc="1444057512"/>
+		<file name="Q:\sgt\src\app\index.run.js" crc="1473769258"/>
+		<file name="Q:\sgt\src\app\index.route.js" crc="1473769258"/>
+		<file name="Q:\sgt\src\app\index.module.js" crc="1473769258"/>
+		<file name="Q:\sgt\src\app\index.controller.js" crc="1450145660"/>
+		<file name="Q:\sgt\src\app\index.constants.js" crc="1439404138"/>
+		<file name="Q:\sgt\src\app\index.config.js" crc="1473769258"/>
+		<file name="Q:\sgt\src\app\index.api.js" crc="1473769258"/>
+		<file name="Q:\sgt\src\index.html" crc="1473768374"/>
+	</filescache>
+</project>
